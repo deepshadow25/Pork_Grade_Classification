@@ -7,3 +7,4 @@
 ## 프로젝트 요약
 - 주제 : 돼지고기 (삼겹살) 이미지를 통한 돼지고기 등급 분류 모델 구현
 - 기술 키워드 : CNN, Image Classification, Deep Learning, CV, Data Preprocessing
+- 데이터 출처 : [AIHub "축산물 품질(QC) 이미지" (제공 : 한국축산데이터(주) 농업법인)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=158)
